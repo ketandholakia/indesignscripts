@@ -13,13 +13,16 @@ Welcome to the **InDesign Scripts Collection** repository! 🚀 This repository 
 3. Navigate to `File` > `Scripts` > `Run Script`.
 4. Select the downloaded script and run it.
 
-## 📜 Available Scripts
-| Script Name            | Description                                     |                                                          |
-| ---------------------- | ----------------------------------------------- | -------------------------------------------------------- |
-| `duplicate2right.jsx`  | [View the script](scripts/duplicate2right.jsx)  | Duplicates a selected object and moves it to the right.  |
-| `duplicate2left.jsx`   | [View the script](scripts/duplicate2left.jsx)   | Duplicates a selected object and moves it to the left.   |
-| `duplicate2top.jsx`    | [View the script](scripts/duplicate2top.jsx)    | Duplicates a selected object and moves it to the top.    |
-| `duplicate2bottom.jsx` | [View the script](scripts/duplicate2bottom.jsx) | Duplicates a selected object and moves it to the bottom. |
+## 📜 Indesign Scripts
+| Script Name                       | Script link                                         | Description                                              |
+| --------------------------------- | --------------------------------------------------- | -------------------------------------------------------- |
+| Duplicate to Right                | [View the script](scripts/duplicate2right.jsx)      | Duplicates a selected object and moves it to the right.  |
+| Duplicate to Left                 | [View the script](scripts/duplicate2left.jsx)       | Duplicates a selected object and moves it to the left.   |
+| Duplicate to Top                  | [View the script](scripts/duplicate2top.jsx)        | Duplicates a selected object and moves it to the top.    |
+| Duplicate to Bottom               | [View the script](scripts/duplicate2bottom.jsx)     | Duplicates a selected object and moves it to the bottom. |
+| Advanced Crop / Registration Mark | [View the script](scripts/advancedcrop-regmark.jsx) | Enhanced version of cropmark script of Indesign          |
+| Make Crop Mark                    | [View the script](scripts/makecropmark.jsx)         | Customizable Crop / Registration mark                    |
+|                                   |                                                     |                                                          |
 
 ## 🎯 How to Use
 - Open an InDesign document.

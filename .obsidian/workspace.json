@@ -169,5 +169,9 @@
     }
   },
   "active": "5f8e0e8748b6552e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "scripts/fitpage2selection.jsx",
+    "scripts/makecropmark.jsx",
+    "scripts/advancedcrop-regmark.jsx"
+  ]
 }
