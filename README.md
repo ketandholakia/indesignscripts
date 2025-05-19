@@ -14,12 +14,12 @@ Welcome to the **InDesign Scripts Collection** repository! 🚀 This repository 
 4. Select the downloaded script and run it.
 
 ## 📜 Available Scripts
-| Script Name             | Description |
-|-------------------------|-------------|
-| `duplicate-object.jsx`  | Duplicates a selected object and moves it to the right. |
-| `batch-export.jsx`      | Exports multiple documents in various formats. |
-| `auto-page-numbering.jsx` | Adds automatic page numbers to your document. |
-| `resize-images.jsx`     | Adjusts image dimensions automatically. |
+| Script Name            | Description                                     |                                                          |
+| ---------------------- | ----------------------------------------------- | -------------------------------------------------------- |
+| `duplicate2right.jsx`  | [View the script](scripts/duplicate2right.jsx)  | Duplicates a selected object and moves it to the right.  |
+| `duplicate2left.jsx`   | [View the script](scripts/duplicate2left.jsx)   | Duplicates a selected object and moves it to the left.   |
+| `duplicate2top.jsx`    | [View the script](scripts/duplicate2top.jsx)    | Duplicates a selected object and moves it to the top.    |
+| `duplicate2bottom.jsx` | [View the script](scripts/duplicate2bottom.jsx) | Duplicates a selected object and moves it to the bottom. |
 
 ## 🎯 How to Use
 - Open an InDesign document.
